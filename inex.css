@@ -1,0 +1,52 @@
+body {
+    padding-left: 1vw;
+    padding-right: 1vw;
+    height: 1000vh;
+}
+
+/* nav{
+    position: fixed!important;
+    top: 0;
+    margin: 0;
+} */
+
+.alabi {
+    font-size: 3.5rem !important;
+}
+/* input:active, .tan {
+    box-shadow: 0 0 5px rgba(236, 94, 149, 0.8);
+    border-radius: 3%;
+} */
+/* .search-container {
+    display: flex;
+    align-items: center;
+} */
+ .tan{
+    
+    border-radius: 3%;
+    background-color: #f2f2f2;
+ }
+ .tape{
+     box-shadow: 0 0 5px #f2f2f2;
+}
+.tan:hover{
+    box-shadow: 0 0 5px rgba(236, 94, 149, 0.8);
+    border-radius: 3%;
+    transition: box-shadow 0.3s ease;
+    background-color: white;
+}
+.mit:hover{
+   
+    border-radius: 3%;
+    transition: box-shadow 0.3s ease;
+    background-color: white;
+    color: gray;
+}
+@media (max-width:480px) {
+    .alabi {
+        font-size: 2.5rem !important;
+    }
+    .triu{
+        width: 90vw !important;
+    }
+}

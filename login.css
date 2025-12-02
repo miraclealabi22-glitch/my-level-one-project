@@ -1,0 +1,13 @@
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+   height: 100%;
+
+}
+
+.right{
+    height: 100% !important;
+}
+.left{
+    height: 100% !important;
+}

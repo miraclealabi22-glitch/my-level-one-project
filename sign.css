@@ -1,0 +1,12 @@
+@media (max-width:576px) {
+    nav{
+        justify-self: center !important;
+        display: flex !important;
+        .main-container{
+            width: 100% !important;
+            justify-content: center !important;
+            align-items: center !important;
+            display: flex;
+        }
+    }
+}
