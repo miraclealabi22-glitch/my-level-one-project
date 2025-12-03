@@ -21,13 +21,13 @@ nav{
 }
 @media (min-width:1024px) {
     .ten{
-        font-size: 3rem;
+        font-size: 4rem;
         font-weight: bold;
         line-height: 6vh;
         padding-top: 20vh;
         
     }
     main{
-        padding-left: 10vw;
+        padding-left: 15vw;
     }
 }
